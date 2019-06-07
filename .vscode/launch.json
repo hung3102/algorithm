@@ -1,0 +1,53 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - RegularExpressionMatch",
+      "request": "launch",
+      "mainClass": "RegularExpressionMatch"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - PalidromeInteger",
+      "request": "launch",
+      "mainClass": "PalidromeInteger"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - AToI",
+      "request": "launch",
+      "mainClass": "AToI"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ReverseInteger",
+      "request": "launch",
+      "mainClass": "ReverseInteger"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ZigzagConversion",
+      "request": "launch",
+      "mainClass": "ZigzagConversion"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - LongestPalindromeSubstring",
+      "request": "launch",
+      "mainClass": "LongestPalindromeSubstring"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - LongestPalindromeSubstring",
+      "request": "launch",
+      "mainClass": "LongestPalindromeSubstring",
+      "projectName": "LongestPalindromeSubstring"
+    },
+    {
+      "type": "java",
+      "name": "Leetcode - MedianTwoSortedArray",
+      "request": "launch",
+      "mainClass": "MedianTwoSortedArray"
+    }
+  ]
+}
